@@ -1,0 +1,52 @@
+
+div#block{
+margin:30px left ;
+width:200px ;
+height: 200px;
+border: 4px solid #000;
+}
+
+div#block1{
+    margin:30px left ;
+    width:200px ;
+    height: 200px;
+    border: 4px solid #000;
+    }
+
+.cicada{
+justify-content: center;
+
+}
+*{
+ color: solid;
+
+
+}
+h1 {
+    background-color: grey;
+    color: red;
+    background-position: center;
+    object-position: center;
+    justify-content: center;
+}
+
+
+
+body{
+background-color: lightblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
